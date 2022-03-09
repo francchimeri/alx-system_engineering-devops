@@ -1,1 +1,3 @@
-prnting Hello world
+#!/bin/bash
+Printing hello world
+
